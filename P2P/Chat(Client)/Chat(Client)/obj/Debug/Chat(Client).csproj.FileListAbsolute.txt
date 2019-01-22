@@ -1,0 +1,12 @@
+C:\Users\Ahmed\Desktop\Client-Server-Chat-Between-Peers-master\Chat(Client)\Chat(Client)\bin\Debug\Chat(Client).exe.config
+C:\Users\Ahmed\Desktop\Client-Server-Chat-Between-Peers-master\Chat(Client)\Chat(Client)\bin\Debug\Chat(Client).exe
+C:\Users\Ahmed\Desktop\Client-Server-Chat-Between-Peers-master\Chat(Client)\Chat(Client)\bin\Debug\Chat(Client).pdb
+C:\Users\Ahmed\Desktop\Client-Server-Chat-Between-Peers-master\Chat(Client)\Chat(Client)\obj\Debug\Chat(Client).csprojResolveAssemblyReference.cache
+C:\Users\Ahmed\Desktop\Client-Server-Chat-Between-Peers-master\Chat(Client)\Chat(Client)\obj\Debug\Chat_Client_.FormClient.resources
+C:\Users\Ahmed\Desktop\Client-Server-Chat-Between-Peers-master\Chat(Client)\Chat(Client)\obj\Debug\Chat_Client_.Properties.Resources.resources
+C:\Users\Ahmed\Desktop\Client-Server-Chat-Between-Peers-master\Chat(Client)\Chat(Client)\obj\Debug\Chat(Client).csproj.GenerateResource.Cache
+C:\Users\Ahmed\Desktop\Client-Server-Chat-Between-Peers-master\Chat(Client)\Chat(Client)\obj\Debug\Chat(Client).exe
+C:\Users\Ahmed\Desktop\Client-Server-Chat-Between-Peers-master\Chat(Client)\Chat(Client)\obj\Debug\Chat(Client).pdb
+C:\Users\Ahmed\Desktop\P2P\Chat(Client)\Chat(Client)\bin\Debug\Chat(Client).exe.config
+C:\Users\Ahmed\Desktop\P2P\Chat(Client)\Chat(Client)\obj\Debug\Chat(Client).exe
+C:\Users\Ahmed\Desktop\P2P\Chat(Client)\Chat(Client)\obj\Debug\Chat(Client).pdb
